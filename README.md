@@ -1,1 +1,1 @@
-#GitSpec - AI Powered Git Inspection Tool
+GitSpec - AI Powered Git Inspection Tool
