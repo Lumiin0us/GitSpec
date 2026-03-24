@@ -1,0 +1,6 @@
+streamlit
+qdrant-client
+sentence-transformers
+libcst
+shortuuid
+GitPython
