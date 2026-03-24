@@ -25,10 +25,10 @@ Tips:
 
 Limitations
 
-Indexes the last 200 commits maximum — very large repositories with older history will not have that context
-Only indexes Python files — JavaScript, TypeScript, Go, and other languages are not currently supported
-Qdrant runs in-memory — the index is rebuilt on every new repository submission, previous indexes are not persisted
-Requires a public repository — private repos require GitHub authentication (not yet implemented)
+- Indexes the last 200 commits maximum — very large repositories with older history will not have that context
+- Only indexes Python files — JavaScript, TypeScript, Go, and other languages are not currently supported
+- Qdrant runs in-memory — the index is rebuilt on every new repository submission, previous indexes are not persisted
+- Requires a public repository — private repos require GitHub authentication (not yet implemented)
 
 ---
 
